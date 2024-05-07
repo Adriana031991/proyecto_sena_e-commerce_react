@@ -64,3 +64,16 @@
         }
     }
 }
+
+/* Rose Gold */
+.rose-gold {
+    background-color: #e6b98d !important;
+    color: #fff;
+    border: 1px solid #e6b98d !important;
+}
+
+.rose-gold:hover {
+    background-color: #e4a464 !important;
+    color: #fff;
+    border: 1px solid #e4a464 !important;
+}

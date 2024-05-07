@@ -5,14 +5,16 @@ import { HeaderApp } from './components/header/header_app';
 import { HomeApp } from './components/body/home_app';
 import { Col, Container, Row } from 'react-bootstrap';
 
-function App() {
-  // return (
-  //   <div>
-  //     <HeaderApp />
-  //     <HomeApp />
+/**
+ * Api ecommerce sobre productos de belleza desarrollado en react.
+ * se procura realizar el proyecto en componentes y 
+ * se realiza una llamada a una api de productos de belleza.
+ * el proyecto se encuentra en estados iniciales de desarrollo.
+ * @returns 
+ */
 
-  //   </div>
-  // );
+function App() {
+
   return (
     <Container fluid>
       <Row className="header-row">
